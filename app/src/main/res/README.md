@@ -14,3 +14,6 @@ Audacity project focusing on layouts and styling of android Layouts.
     - margin
     - alignment
 - extract styles from a view and apply to a view
+
+### Scrool view
+- Scroll view > LinearLayout, ScrollView > TextView
